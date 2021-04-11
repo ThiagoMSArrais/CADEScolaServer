@@ -1,0 +1,15 @@
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.csprojAssemblyReference.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.AssemblyInfoInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.AssemblyInfo.cs
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\Eleva.CADEscola.Infra.Data.deps.json
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\Eleva.CADEscola.Infra.Data.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\ref\Eleva.CADEscola.Infra.Data.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\Eleva.CADEscola.Infra.Data.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\bin\Debug\net5.0\Eleva.CADEscola.Domain.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.csproj.CopyComplete
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\ref\Eleva.CADEscola.Infra.Data.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.Data\obj\Debug\net5.0\Eleva.CADEscola.Infra.Data.pdb

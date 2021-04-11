@@ -1,0 +1,12 @@
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.csprojAssemblyReference.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.AssemblyInfoInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.AssemblyInfo.cs
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.csproj.CoreCompileInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\bin\Debug\net5.0\Eleva.CADEscola.Domain.deps.json
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\bin\Debug\net5.0\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\bin\Debug\net5.0\ref\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\bin\Debug\net5.0\Eleva.CADEscola.Domain.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\ref\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Domain\obj\Debug\net5.0\Eleva.CADEscola.Domain.pdb

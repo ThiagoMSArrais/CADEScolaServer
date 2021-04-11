@@ -1,0 +1,17 @@
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.deps.json
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\ref\Eleva.CADEscola.Infra.CrossCutting.IoC.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Domain.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Infra.Data.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Domain.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\bin\Debug\net5.0\Eleva.CADEscola.Infra.Data.pdb
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\ref\Eleva.CADEscola.Infra.CrossCutting.IoC.dll
+D:\Desafio_2\back-end\CADEscola\src\Eleva.CADEscola.Infra.CrossCutting.IoC\obj\Debug\net5.0\Eleva.CADEscola.Infra.CrossCutting.IoC.pdb
